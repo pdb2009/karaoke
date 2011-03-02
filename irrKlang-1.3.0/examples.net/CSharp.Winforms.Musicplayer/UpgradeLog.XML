@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CSharp.Winforms.Musicplayer_vs2005">
+</Property><Property Name="Solution File" Value="E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\CSharp.Winforms.Musicplayer_vs2005.sln">
+</Property><Property Name="Date" Value="quarta-feira, 2 de fevereiro de 2011">
+</Property><Property Name="Time" Value="08:45">
+</Property></Properties><Event ErrorLevel="0" Project="CSharp.Winforms.Musicplayer_vs2005" Source="CSharp.Winforms.Musicplayer_vs2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CSharp.Winforms.Musicplayer_vs2005" Source="CSharp.Winforms.Musicplayer_vs2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CSharp.Winforms.Musicplayer_vs2005.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CSharp.Winforms.Musicplayer_vs2005.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CSharp.Winforms.Musicplayer_vs2005" Source="CSharp.Winforms.Musicplayer_vs2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

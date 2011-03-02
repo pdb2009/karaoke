@@ -1,0 +1,10 @@
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\CSharp.Winforms.Musicplayer.Form1.resources
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\CSharp.Winforms.Musicplayer_vs2005.csproj.GenerateResource.Cache
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\bin\x86\Debug\CSharp.Winforms.Musicplayer.exe
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\bin\x86\Debug\CSharp.Winforms.Musicplayer.pdb
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\bin\x86\Debug\irrKlang.NET2.0.dll
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\CSharp.Winforms.Musicplayer.exe
+E:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\CSharp.Winforms.Musicplayer.pdb
+H:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\CSharp.Winforms.Musicplayer.exe
+H:\C#\Projetos\Karaoke\irrKlang-1.3.0\examples.net\CSharp.Winforms.Musicplayer\obj\x86\Debug\CSharp.Winforms.Musicplayer.pdb

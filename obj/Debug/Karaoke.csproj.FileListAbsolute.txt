@@ -1,0 +1,13 @@
+E:\C#\Projetos\Karaoke\bin\Debug\Karaoke.exe
+E:\C#\Projetos\Karaoke\bin\Debug\Karaoke.pdb
+E:\C#\Projetos\Karaoke\bin\Debug\irrKlang.NET2.0.dll
+E:\C#\Projetos\Karaoke\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.Properties.Resources.resources
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.csproj.GenerateResource.Cache
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.exe
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.pdb
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.Form1.resources
+E:\C#\Projetos\Karaoke\bin\Debug\Karaoke.exe.manifest
+E:\C#\Projetos\Karaoke\bin\Debug\Karaoke.application
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.exe.manifest
+E:\C#\Projetos\Karaoke\obj\Debug\Karaoke.application
