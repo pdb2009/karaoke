@@ -5,13 +5,13 @@ This is a simple project of a karaoke player. It's still in the beginning of its
 
 = Details =
 
-About the project development:
+*About the project development:*
 
 - Written in *C#*;
 
 - Best suited for learning.
 
-About the project itself:
+*About the project itself:*
 
 - Simple karaoke player;
 
